@@ -1,3 +1,5 @@
+upstream: https://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs-tools.git
+
 F2FS format utility
 ---------------------
 
